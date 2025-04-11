@@ -1,7 +1,7 @@
 Dice Game
 A fun and interactive 2-player Dice Game built using **HTML**, **CSS**, and **JavaScript**.
 
-[Play the Dice Game](https://yourusername.github.io/Dice-Game/)  
+[Play the Dice Game](https://bhuvan-shivhare.github.io/Dice-game/) 
 
 ## 🎮 How to Play
 
